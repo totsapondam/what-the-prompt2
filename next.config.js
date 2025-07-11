@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  // swcMinify: true, // ❌ ลบออก เพราะเวอร์ชันใหม่ไม่รองรับ
+  reactStrictMode: true
 };
 
 module.exports = nextConfig;
